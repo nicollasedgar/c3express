@@ -1,2 +1,2 @@
 # c3express.github.io
-landing page menggunakan html dan css
+landing page c3express menggunakan html dan css
