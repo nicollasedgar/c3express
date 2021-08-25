@@ -1,0 +1,163 @@
+@media only screen and (max-width: 1108px){
+    
+    .header-logo{
+        padding-right: 15px;
+        font-size: 20px;
+    }
+
+    .header-login a{
+        font-size: 15px;
+    }
+
+    .header-list a{
+        font-size: 15px;
+    }
+
+    .logo{
+        width: 90px;
+        margin-top: 20px;
+    }
+
+    .top-wrapper, .top-wrapper h1, .top-wrapper p{
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .top-wrapper {
+        background-image: url(image/bg.jpg);
+    }
+
+    footer{
+        height: 240px;
+    }
+
+}
+
+@media only screen and (max-width: 670px){
+    .promotion{
+        width: 50%;
+        margin: 0 auto;
+        float: none;
+    }
+
+    .promotion-icon img{
+        width: 100%;
+        height: fit-content;
+    }
+
+    .header-list{
+        display: none;
+    }
+
+    .menu-icon {
+        color: white;
+        float: left;
+        font-size: 25px;
+        padding: 25px 0;
+        display: block !important;
+      }
+
+    .message-wrapper{
+        margin-top: 400px;
+    }
+
+    .top-wrapper h1{
+        font-size: 30px;
+        line-height: 40px;
+        width: 80%;
+    }
+
+    .top-wrapper p{
+        width: 80%;
+    }
+
+    .top-wrapper{
+        padding: 80px 0 10px 0;
+        background-image: none;
+    }
+
+    .promotion-wrapper h2{
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .btn{
+        padding: 8px 20px;
+    }
+
+    .message-wrapper h2{
+        font-size: 30px;
+    }
+
+    footer{
+        height: 800px;
+    }
+
+    .footer-logo{
+        float: none;
+    }
+
+    .footer-right{
+        display: flex;
+        flex: auto;
+    }
+
+    .footer-right div{
+        flex: auto;
+    }
+}
+
+@media only screen and (max-width: 455px){
+    .text-contents{
+        margin-top: 80px;
+        padding: 0;
+    }
+
+    .promotion-icon p{
+        padding: 0;
+        margin: 5px;
+    }
+
+    .footer-logo a{
+        font-size: 15px;
+    }
+
+    .footer-logo h3{
+        font-size: 10px;
+    }
+
+    .footer-logo img{
+        width: 20px;
+    }
+
+    .footer-informasi{
+        margin-right: 0;
+    }
+    
+    .footer-layanan{
+        margin-right: 0;
+    }
+
+    .footer-perusahaan h3{
+        font-size: 10px;
+    }
+
+    .footer-informasi h3{
+        font-size: 10px;
+    }
+
+    .footer-layanan h3{
+        font-size: 10px;
+    }
+
+    .footer-perusahaan li{
+        font-size: 8px;
+    }
+
+    .footer-informasi li{
+        font-size: 8px;
+    }
+    .footer-layanan li{
+        font-size: 8px;
+    }
+}
